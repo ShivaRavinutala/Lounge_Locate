@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Namaste Lounge",
+        "location": "C9/JRL",
+        "id": 0,
+        "coordinates": {
+            "longitude": -122.05722255520206,
+            "latitude": 37.0007460895382
+        },
+        "description": "Address: Namaste Lounge, College Nine Rd, Santa Cruz 95064",
+        "imageName": "Namaste"
+    },
+    {
+        "name": "Computer Lab",
+        "location": "C9/JRL",
+        "id": 1,
+        "coordinates": {
+            "longitude": -122.05825353835804,
+            "latitude": 37.0023594594364
+        },
+        "description": "Room 135 Social Sciences 1, Santa Cruz, CA 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Rec Lounge",
+        "location": "C9/JRL",
+        "id": 2,
+        "coordinates": {
+            "longitude": -122.05770624144299,
+            "latitude": 37.00066045976536
+        },
+        "description": "McLauglin Dr, College Nine, Santa Cruz 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Community Room",
+        "location": "C9/JRL",
+        "id": 3,
+        "coordinates": {
+            "longitude": -122.05937188518462,
+            "latitude": 37.00228002852896
+        },
+        "description": "615 College Nine Rd, Santa Cruz 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Terry Freitas Cafe",
+        "location": "C9/JRL",
+        "id": 4,
+        "coordinates": {
+            "longitude": -122.05805588472326,
+            "latitude": 37.00031667342151
+        },
+        "description": "600 McLauglin Dr, College Nine, Santa Cruz 95064",
+        "imageName": "terry_freitas_pic2a"
+    },
+    {
+        "name": "Adlai E. Stevenson Library",
+        "location": "Cowell/Stevenson",
+        "id": 5,
+        "coordinates": {
+            "longitude": -122.0514145537799,
+            "latitude": 36.99714364327837
+        },
+        "description": "1156 High Street, Stevenson College, Santa Cruz, CA 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Wagstaff Fireside Lounge",
+        "location": "Cowell/Stevenson",
+        "id": 6,
+        "coordinates": {
+            "longitude": -122.05165498091067,
+            "latitude": 36.99689048608395
+        },
+        "description": "Stevenson Service Road, Stevenson College, Santa Cruz CA 95064",
+        "imageName": "firesidelounge"
+    },
+    {
+        "name": "Page Smith Library",
+        "location": "Cowell/Stevenson",
+        "id": 7,
+        "coordinates": {
+            "longitude": -122.05355828932638,
+            "latitude": 36.99691585811119
+        },
+        "description": "Page Smith Library, Cowell College, Santa Cruz, CA 95064",
+        "imageName": "pagesmith"
+    },
+    {
+        "name": "Practice Room",
+        "location": "Crown/Merrill",
+        "id": 8,
+        "coordinates": {
+            "longitude": -122.05387105729577,
+            "latitude": 37.00161616205019
+        },
+        "description": "Crown/Merrill Practice Room, Santa Cruz, CA 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Crown Library",
+        "location": "Crown/Merrill",
+        "id": 9,
+        "coordinates": {
+            "longitude": -122.05486577964325,
+            "latitude": 36.999788172985724
+        },
+        "description": "628 Crown Rd, Santa Cruz, CA 95064",
+        "imageName": "crownlibrary"
+    },
+    {
+        "name": "Kresge Study Center",
+        "location": "Porter/Kresge",
+        "id": 10,
+        "coordinates": {
+            "longitude": -122.06560890324258,
+            "latitude": 36.99801594283223
+        },
+        "description": "33 Porter Kresge Rd, Kresge College, Santa Cruz, CA 95064",
+        "imageName": "kresge-study-center"
+    },
+    {
+        "name": "Porter Hitchcock Lounge",
+        "location": "Porter/Kresge",
+        "id": 11,
+        "coordinates": {
+            "longitude": -122.06581881898796,
+            "latitude": 36.99449939308065
+        },
+        "description": "411 Porter Kresge Rd, Porter College, Santa Cruz, CA 95064",
+        "imageName": "porter-hitchcock-lounge"
+    },
+    {
+        "name": "Red Room",
+        "location": "Oakes/Rachel Carson",
+        "id": 12,
+        "coordinates": {
+            "longitude": -122.0648005264464,
+            "latitude": 36.9912283700422
+        },
+        "description": "College Eight Ct, Rachel Carson College, Santa Cruz, CA 95064",
+        "imageName": "standard"
+    },
+    {
+        "name": "Perks Coffee Bar",
+        "location": "Physical Sciences",
+        "id": 13,
+        "coordinates": {
+            "longitude": -122.06153954171275,
+            "latitude": 36.99946997151475
+        },
+        "description": "590 Steinhart Way, Santa Cruz, CA 95064",
+        "imageName": "california-santa-cruz-perk-coffee-bar-at-physical-sciences"
+    },
+    {
+        "name": "Perks Coffee Bar",
+        "location": "Baskin Engineering",
+        "id": 14,
+        "coordinates": {
+            "longitude": -122.06301742214583,
+            "latitude": 37.00046282568908
+        },
+        "description": "McLaughlin Dr, Santa Cruz, CA 95604",
+        "imageName": "perks-at-baskin"
+    },
+    {
+        "name": "Perks Coffee Bar",
+        "location": "Earth and Marine Sciences",
+        "id": 15,
+        "coordinates": {
+            "longitude": -122.05994436821639,
+            "latitude": 36.99794854830976
+        },
+        "description": "1156 High St, Santa Cruz, CA 95604",
+        "imageName": "perks-at-earth-and-marine"
+    }
+]
